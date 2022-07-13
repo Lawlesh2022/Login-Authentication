@@ -1,0 +1,11 @@
+body{
+    background-color:lightblue;
+}
+.welcome{
+    text-align: center;
+    top = 25%;
+    left = 20%;
+    font-size: 50px;
+    color: green;
+    padding-top: 50px;
+}
